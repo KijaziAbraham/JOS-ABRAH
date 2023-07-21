@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbrahamKijazi
+- 👋 Hi, I’m @Abraham kijazi
 - 🌱 I’m currently learning frontend languages
 - 📫 How to reach me abrahamkijazi01@gmail.com
 
